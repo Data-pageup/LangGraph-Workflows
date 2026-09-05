@@ -1,8 +1,7 @@
 # LangGraph Workflows
 
-This repository contains my hands-on practice notebooks while learning **LangGraph** and building different types of LLM workflows using LangChain and LangGraph.
-
-## 📚 Topics Covered
+This repository demonstrates core LangGraph concepts through different LLM workflows, including state management, prompt chaining, iterative workflows, persistence, human-in-the-loop interactions, and subgraphs.
+## Topics Covered
 
 ### 1. Temperature Conversion Workflow
 **File:** `1_Temperature_Conversion_Workflow.ipynb`
